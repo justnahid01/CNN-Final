@@ -90,8 +90,7 @@ Convert to Tensor
       ↓
 Normalize
       ↓
-CNN Model    ↓
-CNN Model
+CNN Model   
 ```
 
 ### Why Preprocessing is Needed
